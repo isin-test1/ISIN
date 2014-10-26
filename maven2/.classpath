@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/maven-1.0-SNAPSHOT/WEB-INF/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/jdo/jdo2-api/2.3-eb/jdo2-api-2.3-eb.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/transaction/transaction-api/1.1/transaction-api-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/jstl/1.2/jstl-1.2.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/appengine/appengine-api-1.0-sdk/1.9.12/appengine-api-1.0-sdk-1.9.12.jar"/>
+  <classpathentry kind="var" path="M2_REPO/jstl/jstl/1.2/jstl-1.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/appengine/appengine-testing/1.9.12/appengine-testing-1.9.12.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/appengine/appengine-api-stubs/1.9.12/appengine-api-stubs-1.9.12.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-server/1.18.1/jersey-server-1.18.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-core/1.18.1/jersey-core-1.18.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.8.8/jackson-mapper-asl-1.8.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.8.8/jackson-core-asl-1.8.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-servlet/1.18.1/jersey-servlet-1.18.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/contribs/jersey-simple-server/1.18.1/jersey-simple-server-1.18.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/simpleframework/simple/5.0.4/simple-5.0.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/contribs/jersey-multipart/1.18.1/jersey-multipart-1.18.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jvnet/mimepull/mimepull/1.9.3/mimepull-1.9.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/appengine/tools/appengine-gcs-client/0.4.1/appengine-gcs-client-0.4.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/guava/guava/15.0/guava-15.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/joda-time/joda-time/2.3/joda-time-2.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/api-client/google-api-client/1.18.0-rc/google-api-client-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/oauth-client/google-oauth-client/1.18.0-rc/google-oauth-client-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/http-client/google-http-client/1.18.0-rc/google-http-client-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.3/commons-codec-1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/http-client/google-http-client-jackson2/1.18.0-rc/google-http-client-jackson2-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.1.3/jackson-core-2.1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/api-client/google-api-client-appengine/1.18.0-rc/google-api-client-appengine-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/oauth-client/google-oauth-client-appengine/1.18.0-rc/google-oauth-client-appengine-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/http-client/google-http-client-appengine/1.18.0-rc/google-http-client-appengine-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/oauth-client/google-oauth-client-servlet/1.18.0-rc/google-oauth-client-servlet-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/http-client/google-http-client-jdo/1.18.0-rc/google-http-client-jdo-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/api-client/google-api-client-servlet/1.18.0-rc/google-api-client-servlet-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/apis/google-api-services-storage/v1-rev1-1.18.0-rc/google-api-services-storage-v1-rev1-1.18.0-rc.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar"/>
+</classpath>
